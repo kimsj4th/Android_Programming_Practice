@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Android-Programming-Practice
 
 
@@ -11,6 +10,5 @@
 
 **Day##: Firebase**  
 - Authentication: Google Log-In   
-=======
-# Android_Programming_Practice
->>>>>>> f1ff388d649e9b6859992d395e5a0a9fb09e505d
+
+---
