@@ -1,4 +1,4 @@
-# Android-Programming-Practice
+# Android Programming Practice
 
 
 **Day01: XML로 화면구성하기/ 위젯 그리기**  
