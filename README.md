@@ -12,7 +12,7 @@
 
 ---
 
-####Day03: Custom Class Basic 
+#### Day03: Custom Class Basic 
 _Custom Button & Custom Toast Message_
 
 
@@ -21,7 +21,7 @@ _Custom Button & Custom Toast Message_
 될때까지 안드로이드, 오준석 
 
 
-####Day04: Graphics 
+#### Day04: Graphics 
 _Paint Board_
 
 
@@ -32,5 +32,5 @@ onTouchEvent(MotionEvent)
 getView(int,View,ViewGroup)  
 참고: Do it 안드로이드, 정재곤
 
-####Firebase 
+#### Firebase 
 Google Log-In 
