@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
         mEditText3.setBackgroundColor(Color.GRAY);
 
         // 버튼 텍스트 설정
-        mBitmapButton.setText("Hello!");
+        mBitmapButton.setText("Bitmap Button");
         mButton1.setText("Custom Toast Button");
 
         // 버튼 텍스트 소문자 지원
@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
     class ButtonListener1 implements View.OnClickListener {
         @Override
         public void onClick(View v) {
-            CustomToast.makeText(MainActivity.this,"Custom Toast!!", Toast.LENGTH_SHORT).show();
+            CustomToast.makeText(MainActivity.this,"Custom Toast Message", Toast.LENGTH_SHORT).show();
 
             for (View view : viewArray) {
                 view.setBackgroundColor(Color.RED);
